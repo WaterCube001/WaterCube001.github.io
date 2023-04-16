@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Energy-aware Retinaface: A Power Efficient Edge-Computing SOC for Face Detector in 40nm"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: Oct. 2021
+venue: '2021 IEEE 14th International Conference on ASIC (ASICON)'
+paperurl: 'http://watercube001.github.io/files/paper3.pdf'
+citation: 'Sun M, Cao Y, Chiang P Y. Energy-aware Retinaface: A Power Efficient Edge-Computing SOC for Face Detector in 40nm[C]//2021 IEEE 14th International Conference on ASIC (ASICON). IEEE, 2021: 1-4.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://watercube001.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Sun M, Cao Y, Chiang P Y. Energy-aware Retinaface: A Power Efficient Edge-Computing SOC for Face Detector in 40nm[C]//2021 IEEE 14th International Conference on ASIC (ASICON). IEEE, 2021: 1-4.

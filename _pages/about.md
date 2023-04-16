@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome, glad to kow you! This is a brife introduction to Me~"
+title: "Welcome, glad to know you! This is a brife introduction to Me~"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

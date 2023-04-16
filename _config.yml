@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Miao Sun / Academic Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Miao Sun"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a PhD cadidate now at Fundan University. My interets include the DNN accelerator, SPAD-based imaging system and autonomous driving algorithm. I am an intern of Nvidia at DriveSim Department now. Recently, I start to learn how to build my own homepage about my research. Good to know you!"
+  location         : "Shanghai, China"
   employer         :
   email            : 18112020006@fudan.edu.cn
   uri              :
