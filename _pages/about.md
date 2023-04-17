@@ -52,17 +52,17 @@ Representative Work
 ======
 The proposed S2D(sparse to dense) is a real-time depth-completion neural network accelerator SoC designed in 40nm CMOS technology.
 <div  align="center">   
-<img src=http://watercube001.github.io/images/algorithm.png width="60%" height="60%" />
+<img src="http://watercube001.github.io/images/algorithm.png" width="60%" height="60%" />
 </div>
 <center>Figure: Computation flow of the proposed depth completion.</center>
 
 
 <div  align="center">   
-<img src=http://watercube001.github.io/images/Fig2.jpg width="60%" height="60%" />
+<img src="http://watercube001.github.io/images/Fig2.jpg" width="60%" height="60%" />
 </div>
 <center>Figure: Overall architecture of the accelerator SoC.</center>
 
 <div  align="center">   
-<img src=http://watercube001.github.io/images/layout.png width="40%" height="40%" />
+<img src="http://watercube001.github.io/images/layout.png" width="40%" height="40%" />
 </div>
 <center>Figure: Chip Micrograph.</center>
