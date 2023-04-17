@@ -50,7 +50,7 @@ Work Experience
 
 Representative Work
 ======
-The proposed S2D(sparse to dense) is a real-time depth-completion neural network accelerator SoC designed in 40nm CMOS technology.
+The proposed S2D(sparse to dense) is a real-time depth-completion neural network accelerator SoC designed in 40nm CMOS technology. The chip is capable of completing sparse 32x32 point cloud images into 640x480 depth images, accelerating the post-processing part of algorithms by implementing a RISC-V with a vector processor. It is currently the only hardware acceleration work in the field of depth completion, providing practical solutions for the implementation and deployment of LiDAR automatic driving. This work has received unanimous recommendations from reviewers.
 <div  align="center">   
 <img src="http://watercube001.github.io/images/algorithm.png" width="60%" height="60%" />
 </div>
