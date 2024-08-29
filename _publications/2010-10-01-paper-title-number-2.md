@@ -1,15 +1,16 @@
 ---
-title: " Multi-Scale Histogram-Based Probabilistic Deep Neural Network for Super-Resolution 3D LiDAR Imaging"
+title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ''
-date: Dec. 2022
-venue: 'Sensors'
-paperurl: 'http://watercube001.github.io/files/paper2.pdf'
-citation: 'Sun M, Zhuo S, Chiang P Y. Multi-Scale Histogram-Based Probabilistic Deep Neural Network for Super-Resolution 3D LiDAR Imaging[J]. Sensors, 2022, 23(1): 420.'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+
+<a href='http://academicpages.github.io/files/paper2.pdf'>Download paper here</a>
+
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://watercube001.github.io/files/paper2.pdf)
-
-Recommended citation:Sun M, Zhuo S, Chiang P Y. Multi-Scale Histogram-Based Probabilistic Deep Neural Network for Super-Resolution 3D LiDAR Imaging[J]. Sensors, 2022, 23(1): 420.
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

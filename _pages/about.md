@@ -47,7 +47,7 @@ Work Experience
 > + Verify the similarity between real LiDAR sensor and simulated sensor by ray trace.
 > + Support the different LiDAR sensors on market to access to Omniverse.
 
-#### [__NVIDIA__](https://developer.nvidia.com/drive/simulation) `2023.11 - Now`
+#### [__NTU__](https://www.ntu.edu.sg/cics) `2023.11 - Now`
 #### Research Fellow
 > + Metalens-based miniaturized low-cost LiDAR system.
 > + 1K frame rate LiDAR imaging system with event-driven camera.
