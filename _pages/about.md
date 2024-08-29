@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Say hello here! My name is Miao Sun. I am currently a PhD student in the [School of Microelectronics at Fudan University](https://sme.fudan.edu.cn/), pursuing a five-year program. I am expected to obtain my doctoral degree in June 2023. My advisor is [Prof. Patrick Yin Chiang](https://sme.fudan.edu.cn/5f/e4/c31146a352228/page.htm) and my research focuses on chip and system design based on SPAD (Single-Photon Avalanche Diode) and depth completion technology. I am looking for some potential postdoctoral positions, mainly focused on digital system design, digital processing and applications of near-sensor end. I am a chip guy, designing much cooler chips, and working with excellent ICers are ideal goals for me now!
+Say hello here! My name is Miao Sun. I am currently a Ressearch Fellow in EEE college of NTU, Singapore. I received the PhD degree in Autumn 2023 from the [School of Microelectronics at Fudan University](https://sme.fudan.edu.cn/) advised by [Prof. Patrick Yin Chiang](https://sme.fudan.edu.cn/5f/e4/c31146a352228/page.htm). My research focuses on digital circuit and system design for SPAD (Single-Photon Avalanche Diode)-based imaging platform and depth completion technology. After one year research in NTU on metalens-based LiDAR imaging system, I decided to continue on searching for a digital circuit design group. I am looking for some academic positions in university, mainly focused on digital system design, digital processing and applications of near-sensor end. I am a chip guy, designing much cooler chips, and working with excellent ICers are ideal goals for me! Any discussions and recommendations are welcomed!
 
 
 Academic Biography
@@ -50,7 +50,7 @@ Work Experience
 
 Representative Work
 ======
-The proposed S2D(sparse to dense) is a real-time depth-completion neural network accelerator SoC designed in 40nm CMOS technology. The chip is capable of completing sparse 32x32 point cloud images into 640x480 depth images, accelerating the post-processing part of algorithms by implementing a RISC-V with a vector processor. It is currently the only hardware acceleration work in the field of depth completion, providing practical solutions for the implementation and deployment of LiDAR automatic driving. This work has received unanimous recommendations from reviewers.
+The proposed S2D(sparse to dense) is a real-time depth-completion neural network accelerator SoC designed in 40nm CMOS technology. The chip is capable of completing sparse 32x32 point cloud images into 640x480 depth images, accelerating the post-processing part of algorithms by implementing a RISC-V with a vector processor. It is currently the only hardware acceleration work in the field of depth completion, providing practical solutions for the implementation and deployment of LiDAR automatic driving. This work has received unanimous recommendations from reviewers.
 <div  align="center">   
 <img src="http://watercube001.github.io/images/algorithm.png" width="60%" height="60%" />
 </div>
